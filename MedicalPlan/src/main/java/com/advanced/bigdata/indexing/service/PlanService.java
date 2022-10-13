@@ -38,7 +38,7 @@ public class PlanService {
     }
 
     /**
-     *
+     * Set the Etag with the JSONObject from the request
      * @param key
      * @param jsonObject
      * @return
